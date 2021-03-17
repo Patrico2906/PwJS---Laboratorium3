@@ -1,0 +1,11 @@
+. Analogicznie dodaj drugą sekcję, ale już bez klasy .jumbotron.
+2. Nadaj jej ID i dodaj do nawigacji.
+3. Uzupełnij nagłówek i treść.
+4. Korzystając z klas pomocowych zmień kolor nagłówka:
+http://getbootstrap.com/css/#helper-classes
+5. Korzystając z .row oraz .col-x-x wstaw do sekcji 3 kolumny (przykład na
+wykładzie).
+6. W każdej kolumnie umieść kwadratowy obrazek i dodaj do niego odpowiedni styl
+tak, żeby obrazek zrobił się okrągły. 
+7. Pod obrazkiem dodaj podpis jako nagłówek h3 i zmień mu kolor.
+8. Wycentruj obrazki i teksty w kolumnach: http://getbootstrap.com/css/#typealignment
