@@ -1,1 +1,1 @@
-# PwJS---Laboratorium3
+# Laboratorium 3. Programowanie w językach skryptowych.
